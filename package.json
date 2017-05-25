@@ -1,0 +1,27 @@
+{
+  "name": "rich-json-parser",
+  "version": "1.0.0",
+  "description": "Support regular expression to be a JSON value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thzt/rich-json-parser.git"
+  },
+  "keywords": [
+    "json",
+    "regular expression",
+    "pegjs"
+  ],
+  "author": "thzt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thzt/rich-json-parser/issues"
+  },
+  "homepage": "https://github.com/thzt/rich-json-parser#readme",
+  "dependencies": {
+    "pegjs": "^0.10.0"
+  }
+}
