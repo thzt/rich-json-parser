@@ -1,7 +1,7 @@
 # rich-json-parser
 Support regular expression to be a JSON value.
 
-Using [PEG.js](), the parser will not return an AST, but a javascript object.
+Using [PEG.js](https://github.com/pegjs/pegjs), the parser will not return an AST, but a javascript object directly.
 
 For example: 
 
